@@ -1,7 +1,5 @@
 # Number to LCD
 
-https://gist.github.com/arikfr/11362378#file-gistfile1-txt Goal: write a program that displays LCD style numbers.
-
 # Part 1
 
 Write a program that given a number (with arbitrary number of digits), converts it into LCD style numbers using the

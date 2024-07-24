@@ -10,3 +10,8 @@ Please remember that each LCD digit is 3 lines high.
 1. What is the input? int's, long's? Strings?
 2. How are you modularising your code?
 3. Do you need any error handling?
+
+# Part 2 Ideas
+
+1. Add support for the digit 0
+

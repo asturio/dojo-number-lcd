@@ -1,6 +1,6 @@
 # Number to LCD
 
-# Part 1
+## Part 1
 
 Write a program that given a number (with arbitrary number of digits), converts it into LCD style numbers using the
 following format:
